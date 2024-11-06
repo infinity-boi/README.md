@@ -13,6 +13,8 @@ I'm currently pursuing Btech (CSE)<br>I'm currently learning MERN stack and adva
   <a href="https://leetcode.com/gouravsinghc2003/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="100" width="100" /></a>
   <a href="https://leetcode.com/gouravsinghc2003/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="100" width="100" /></a>
   <a href="https://leetcode.com/gouravsinghc2003/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="100" width="100" /></a>
+  <a href="https://leetcode.com/gouravsinghc2003/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024.gif" height="100" width="100" /></a>
+  
 </p>
 
 # 📊 GitHub Stats:
